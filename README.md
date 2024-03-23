@@ -17,4 +17,8 @@ Run the following command to push this image to your newly created AWS repositor
 
 ```
 
+## Account Switching
+[aws_switch](https://dev.to/hmintoh/how-to-use-multiple-aws-accounts-with-the-aws-cli-3lge#:~:text=To%20switch%20between%20different%20AWS,line%20via%20export%20AWS_PROFILE%3Dprofile_name%20.)
+
+
 
